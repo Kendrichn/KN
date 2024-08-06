@@ -94,6 +94,22 @@ header a {
     margin: 0 auto;
 }
 
+.logocontainer {
+    position: relative;
+    width: 150px;
+    height: 150px:
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.logocontainer::after {
+    content: '';
+    position: absolute;
+    inset: 3px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
 .logo {
     position: absolute;
     inset: 15px;
