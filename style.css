@@ -136,7 +136,7 @@ header a {
 
 .tiles {
     width: 100%;
-    background: linear-gradient(0deg, hsla(209, 87%, 9%, 1) 0%, hsla(201, 96%, 19%, 1) 100%);
+    background: linear-gradient(0deg, hsla(141, 45%, 72%, 1) 0%, hsla(201, 96%, 19%, 1) 100%);
     border-radius: 18px;
     color: #fff;
     font-family: Anta;
