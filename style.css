@@ -103,14 +103,6 @@ header a {
     overflow: hidden;
 }
 
-.logocontainer::before {
-    content: '';
-    position: absolute;
-     inset: -10px 0px;
-    background: linear-gradient(315deg,#0ef,#d400d4,#ff0a00,#a400ff);
-    transition: 0.5s;
-}
-
 .logocontainer::after {
     content: '';
     position: absolute;
