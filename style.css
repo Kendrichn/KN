@@ -24,16 +24,11 @@ header a {
 
 .sourceCode {
   position: relative;
-  font-family: Raleway;
+  font-family: Oswald;
   font-weight: 500;
   font-size: 15px;
   letter-spacing: 0.05em;
-  border-radius: 0.8em;
-  cursor: pointer;
-  border: none;
-  background: linear-gradient(to right, #8e2de2, #4a00e0);
   color: rgb(255,255,255);
-  overflow: hidden;
 }
 
 .sourceCode svg {
@@ -63,7 +58,6 @@ header a {
 
 .sourceCode::before {
   content: "";
-  background: linear-gradient(0deg, hsla(141, 45%, 72%, 1) 0%, hsla(141, 51%, 83%, 1) 100%);
   width: 120%;
   left: -10%;
   transform: skew(30deg);
