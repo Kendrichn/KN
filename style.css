@@ -133,7 +133,7 @@ header a {
 }
 
 .name, .about {
-  font-family: Raleway;
+  font-family: Oswald;
   padding: 0;
   margin: 0;
 }
@@ -195,11 +195,11 @@ footer {
   margin: 15px auto;
   display: flex;
   justify-content: center;
-  font-family: Raleway;
+  font-family: Oswald;
   font-size: 0.75em;
 }
 
 footer a {
   text-decoration: none;
-  color: #0ef;
+  color: #ccc;
 }
